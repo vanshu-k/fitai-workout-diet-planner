@@ -61,3 +61,12 @@ streamlit run app.py
 
 ---
 **Built for Academic Submission • 2026**
+# FITAI – Workout & Diet Planner
+
+🔗 Live App: (https://fitai-workout-diet-planner-wa8xfjke5enjlpyjtemrcn.streamlit.app/)
+
+An AI-powered workout and diet planner built using:
+- Python
+- Streamlit
+- Machine Learning
+- Pandas
